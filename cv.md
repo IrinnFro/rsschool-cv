@@ -1,4 +1,5 @@
-#**Irina Frolova**
+#**Irina Frolova **
+
 
 ##Contacts
 - E-mail 
@@ -13,7 +14,6 @@ https://github.com/IrinnFro
 ##Education
 2004-2009 St.Petersburg State University of Refrigeration and Food Processing Technologies
 Masters degree in Mechanical Engineering, Engineer
-
 
 ##Summary
 Self-motivated person witn critical experience in learning technology. Able to learn fast.
