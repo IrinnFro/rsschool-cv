@@ -1,1 +1,1 @@
-http://irinnfro.github.io/rsschool-cv/
+http://IrinnFro.github.io/rsschool-cv/
